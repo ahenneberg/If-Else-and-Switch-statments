@@ -66,7 +66,7 @@ namespace If__Else__and_Switch_Statements
         // ELSE CLAUSE WITHOUT BRACES EXAMPLE
         /* With braces, you explicitly state your intention. This can
           improve readability of nested if statement -- even when not
-          required by the compiler. A notable exeception is with the
+          required by the compiler. A notable exception is with the
           following pattern: */
         static void TellMeWhatICanDo(int age)
         {
